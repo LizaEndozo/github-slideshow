@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-To infinity and beyond!-Buzz Lightyear
+All is well- Three Idiots
 Use the left arrow to go back!
